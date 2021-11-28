@@ -1,0 +1,10 @@
+.main,
+.aside {
+    box-sizing: border-box ;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.aside {
+    border-style: dashed;
+}

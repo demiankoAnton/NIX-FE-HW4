@@ -1,0 +1,21 @@
+.odd {
+    width: 20%;
+    background-color: green;
+}
+
+.even {
+    width: 80%;
+    background-color: red;
+}
+
+.odd.right {
+    float: right;
+}
+
+.odd.left {
+    float: left;
+}
+
+.even.right {
+    float: right;
+}

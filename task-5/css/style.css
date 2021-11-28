@@ -1,0 +1,17 @@
+body > div {
+    display: list-item;
+    margin-left: 20px;
+    list-style-type: upper-alpha;
+}
+
+.block-1 {
+    display: block;
+}
+
+.block-2 {
+    display: inline;
+}
+
+.block-3 {
+    display: inline-block;
+}
